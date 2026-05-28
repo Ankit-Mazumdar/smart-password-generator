@@ -74,7 +74,12 @@ java SmartPassword
 
 ### Program Output
 
-![Program Output](screenshots/output.png)
+[Program Output]
+<img width="673" height="437" alt="Output1" src="https://github.com/user-attachments/assets/c9aad42d-a539-449a-bd26-3939256e1aad" />
+
+<img width="745" height="314" alt="Output2" src="https://github.com/user-attachments/assets/ba2586a1-b2d8-448f-ab4d-071fdb11d3f2" />
+
+
 
 
 
